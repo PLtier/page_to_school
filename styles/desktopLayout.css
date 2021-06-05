@@ -1,0 +1,19 @@
+div.main-wrapper {
+  flex-flow: column wrap;
+}
+
+div.image {
+  height: 30%;
+  width: 40%;
+}
+
+div.main-content {
+  width: 60%;
+  height: 100%;
+  overflow: auto;
+}
+
+div.description {
+  height: 70%;
+  width: 40%;
+}

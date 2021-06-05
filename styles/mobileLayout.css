@@ -1,0 +1,17 @@
+div.main-wrapper {
+  flex-flow: column nowrap;
+  justify-content: space-between;
+}
+
+div.image {
+  order: 1;
+  min-height: 200px;
+}
+
+div.main-content {
+  order: 2;
+}
+
+div.description {
+  order: 3;
+}
